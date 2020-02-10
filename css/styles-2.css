@@ -1,0 +1,108 @@
+header, body{
+	font-family: Monospace;
+	margin: 0px;
+}
+
+.navbar{
+	padding: 1px;
+	background-color: grey;
+	color: lightgrey;
+	font-size: 28px;
+	text-align: center;
+}
+
+.woo{
+	display: grid;
+	grid-template-columns: 1fr 1fr 1fr;
+	font-size: 22px;
+}
+
+.uno{
+	border: 1px solid #00000019;
+	background-color: #ff795b;
+	color: #ff2f00;
+	padding: 29px;
+	text-align: center;
+}
+
+.dos{
+	border: 10px solid #ffffff87;
+	background-color: #ffff59;
+	color: #ffa500;
+	padding: 20px;
+	text-align: center;
+}
+
+.tres{
+	border: 1px solid #00000019;
+	background-color: #a0ffd3;
+	color: #00ff7e;
+	padding: 29px;
+	text-align: center;
+}
+
+body{
+	background-color: lightgrey;
+}
+
+.anioop{
+	background-color: #f5f5f5;
+	padding: 10px;
+	margin: 5px;
+}
+
+.main{
+	padding: 20px;
+	font-size: 14px;
+}
+
+.sidebar1 h2{
+	font-size: 50px;
+	text-align: center;
+	color: yellow;
+	padding-bottom: 10px;
+}
+
+.sidebar2 h2{
+	font-size: 50px;
+	text-align: center;
+	color: black;
+	padding-bottom: 10px;
+}
+
+.plslang{
+	display: grid;
+	grid-template-columns: 1fr 10fr 1fr;
+}
+
+header{
+	background-color: white;
+}
+
+.sidebar1{
+	background-color: #ffff83;
+}
+
+.sidebar2{
+	background-color: grey;
+}
+
+.waa{
+	display: grid;
+	grid-template-columns: 1fr 1fr 1fr 1fr 1fr
+}
+
+footer{
+	padding: 10px;
+	font-size: 10px;
+}
+
+span{
+	font-size: 16px;
+	color: #555555
+}
+
+li{
+	margin-top: 5px;
+	margin-bottom: 5px;
+}
